@@ -1,4 +1,4 @@
-package algo.ds;
+package algo.ds.tree;
 
 import java.util.Stack;
 

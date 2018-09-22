@@ -1,8 +1,7 @@
-package concurrent;
+package java_base.concurrent;
 
 import java.io.IOException;
 import java.math.BigInteger;
-import java.util.concurrent.atomic.AtomicLong;
 
 import javax.servlet.Servlet;
 import javax.servlet.ServletConfig;
@@ -10,14 +9,14 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
-public class Cha1_servletunsafe_atomic implements Servlet{
-	private final AtomicLong count = new AtomicLong(0); 
+public class cha1_servletunsafe implements Servlet{
+	private long count = 0; 
 	
 	public void service(ServletRequest req, ServletResponse res)
 			throws ServletException, IOException {
 		BigInteger i = extractFromRequest(req);
 		BigInteger[] factors = factor(i);
-		count.incrementAndGet();
+		++count;
 		encodeIntoResponse(res, factors);
 	}
 	
