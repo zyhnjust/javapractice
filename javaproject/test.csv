@@ -1,0 +1,297 @@
+name,traffic_type_name,Include,is_social_channel,marketing_cloud_app_name
+1_Plus_1_Internet,"Web, Cloud, Storage Hosting",,,
+360_Networks,Streaming Media,,,
+_Akamai_Cache_CTS,Streaming Media,,,
+_Google_Cache_CTS,Streaming Media,,,
+_NetFlix_OCA_CTS,Streaming Media,,,
+AdvancedHosters,"Web, Cloud, Storage Hosting",,,
+Airstream,"Web, Cloud, Storage Hosting",,,
+Akamai_Airstream,Streaming Media,X,,Streaming Media (Akamai Airstream)
+Akamai_Asia_Pac,Streaming Media,X,,Streaming Media (Akamai Asia)
+Akamai_Bluegrass_Caching,Amazon,,,
+Akamai_Bluegrass_Caching,Entertainment,,,
+Akamai_Bluegrass_Caching,Streaming Media,,,
+Akamai_Europe,Streaming Media,X,,Streaming Media (Akamai Europe)
+Akamai_INS,Streaming Media,X,,Streaming Media (Akamai INS)
+Akamai_MO_Net,Streaming Media,X,,Streaming Media (Akamai MO Net)
+Akamai_N_America,Streaming Media,X,,Streaming Media (Akamai NA)
+Akamai_Oshean,Streaming Media,,,
+Akamai_SDN_Comm,Streaming Media,,,
+Akamai_Spirit,Streaming Media,X,,Streaming Media (Akamai Spirit)
+Akamai_VisionNet,Streaming Media,X,,Streaming Media (Akamai VisionNet)
+All_West,Streaming Media,,,
+Amazon,Amazon,X,,Amazon
+AOL_IM,Messaging and Collaboration,X,,Messaging  (AOL)
+AOL_Web,"Web, Cloud, Storage Hosting",,,
+Apple,Apple,X,,Apple
+Apple_Facetime,Messaging and Collaboration,X,,Apple Facetime
+Apple_WWnet,Apple,X,,Apple Crawler (Apple WWNet)
+AppleVPN,VPN,,,
+Arvixe_Net,"Web, Cloud, Storage Hosting",,,
+AuthSvc,Network Infrastructure & IP Protocols,,,
+Baidak,Streaming Media,,,
+BasicIP,Network Infrastructure & IP Protocols,,,
+Battlenet_Games,Gaming,X,,Gaming (Battlenet Games)
+Bell_Canada,"Web, Cloud, Storage Hosting",,,
+BellSouth_Net,"Web, Cloud, Storage Hosting",,,
+Beyond_The_Network,Streaming Media,,,
+BGP,Network Infrastructure & IP Protocols,,,
+Bit_Gravity,Streaming Media,,,
+Bit_Torrent,File Sharing/Transfer,,,
+Blackberry,Messaging and Collaboration,,,
+Bluegrass_Net,Streaming Media,X,,Streaming Media (Bluegrass Net)
+CacheNetworks,Streaming Media,,,
+Caching,"Web, Cloud, Storage Hosting",,,
+Cariaccess,Streaming Media,,,
+CDNetworks,Streaming Media,,,
+CenturyLink,"Web, Cloud, Storage Hosting",,,
+Cisco,Business,,,
+Cisco_MGCP,Business,,,
+Citrix,Business,,,
+Clearcase,Business,,,
+CloudFlareNet,Streaming Media,,,
+CNN_Web,"Web, Cloud, Storage Hosting",,,
+Cogeco_Cable,"Web, Cloud, Storage Hosting",,,
+Cogent_PSInet,Streaming Media,,,
+Com_Net,"Web, Cloud, Storage Hosting",,,
+ComviveNet,Streaming Media,,,
+Continental_BB,"Web, Cloud, Storage Hosting",,,
+Cox_Communications,"Web, Cloud, Storage Hosting",,,
+CP_Internet,"Web, Cloud, Storage Hosting",,,
+Craigslist_Web,"Web, Cloud, Storage Hosting",,,
+CSU_Net,"Web, Cloud, Storage Hosting",,,
+CVS,Business,,,
+CW_Jamaica,"Web, Cloud, Storage Hosting",,,
+Dailymotion,Streaming Media,,,
+Dakota_Carrier_Networks,Streaming Media,X,,Streaming Media (Dakota Carrier Networks)
+DCLUX,Streaming Media,,,
+DFW_Internet_Svc,Streaming Media,,,
+DHCP,Network Infrastructure & IP Protocols,,,
+DNS,Network Infrastructure & IP Protocols,,,
+Dropbox,"Web, Cloud, Storage Hosting",,,
+DStorage,Business,,,
+Ebay_Web,"Web, Cloud, Storage Hosting",,,
+EdgeCast,Streaming Media,,,
+Edgecast_Europe,Streaming Media,,,
+ElectronicArts,Gaming,X,,Gaming (Electronic Arts)
+EPBTE_Fiber_Optics,Streaming Media,,,
+ESP,VPN,,,
+Eweka_Internet,Streaming Media,,,
+Facebook,Social,X,X,Facebook
+FDC_Servers,"Web, Cloud, Storage Hosting",,,
+FileMaker,Business,,,
+Filenet,Messaging and Collaboration,,,
+Flash_Applications,Streaming Media,,,
+Flow,Network Infrastructure & IP Protocols,,,
+FTP,File Sharing/Transfer,,,
+GoDaddy,"Web, Cloud, Storage Hosting",,,
+GoDotCom_Web,Streaming Media,,,
+Google GGC,Streaming Media,,,
+Google_Airstream,Streaming Media,X,,Streaming Media (Google Airstream)
+Google_Bluegrass_Caching,Entertainment,,,
+Google_Bluegrass_Caching,Streaming Media,,,
+Google_Cache_ComNet,Streaming Media,,,
+Google_DCN,Streaming Media,X,,Streaming Media (Google DCN)
+Google_IFN,Streaming Media,X,,Streaming Media (Google IFN)
+Google_INS,Streaming Media,X,,Streaming Media (Google INS)
+Google_MO_Net,Streaming Media,X,,Streaming Media (Google MO Net)
+Google_Oshean,Streaming Media,,,
+Google_SDN_Comm,Streaming Media,,,
+Google_Spirit,Streaming Media,X,,Streaming Media (Google Spirit)
+Google_VisionNet,Streaming Media,,,
+Google_Youtube,Streaming Media,X,X,Youtube
+GRE,VPN,,,
+H248,Messaging and Collaboration,,,
+H323,Messaging and Collaboration,,,
+Highwinds,Streaming Media,,,
+Hosting_Svcs_Inc,"Web, Cloud, Storage Hosting",,,
+Hulu,Streaming Media,X,,Hulu
+Huron_Telecom,"Web, Cloud, Storage Hosting",,,
+ICMP,Network Infrastructure & IP Protocols,,,
+ICQ,Messaging and Collaboration,,,
+IGMP,Network Infrastructure & IP Protocols,,,
+IGRP,Network Infrastructure & IP Protocols,,,
+IKE,VPN,,,
+IMAP,Messaging and Collaboration,,,
+IndianaFiberNet,Streaming Media,,,
+InformixSQL,Business,,,
+INOC,Business,,,
+Integra_Telecom,"Web, Cloud, Storage Hosting",,,
+Iowa_Network_Svc,Streaming Media,X,,Streaming Media (Iowa Network Service)
+IRC,Messaging and Collaboration,,,
+IRIS_Networks,Streaming Media,X,,Streaming Media (Iris Networks)
+iSCSI,Network Infrastructure & IP Protocols,,,
+ITC_Deltacom,"Web, Cloud, Storage Hosting",,,
+iTune_DAAP,Apple,,,
+Jabber,Messaging and Collaboration,X,,Messaging (Jabber)
+Kazaa,File Sharing/Transfer,,,
+Kerberos,Network Infrastructure & IP Protocols,,,
+Layer3_TV_Direct,Streaming Media,,,
+LDAP,Network Infrastructure & IP Protocols,,,
+League_of_Legends,Gaming,X,,League Of Legends
+LeaseWeb_EU,"Web, Cloud, Storage Hosting",,,
+Leaseweb_USA,"Web, Cloud, Storage Hosting",,,
+Level_3,Streaming Media,X,,Streaming Media (Level 3)
+Limelight,Streaming Media,,,
+limewire,File Sharing/Transfer,,,
+LinkedIn,Social,X,X,LinkedIn
+LotusNotes,Business,,,
+LU_CIX_Mgmt,Streaming Media,,,
+M247_LTD,"Web, Cloud, Storage Hosting",,,
+Mayflower,Streaming Media,,,
+Mediafire,File Sharing/Transfer,,,
+Microsoft_Web,Business,,,
+Microtec,Business,,,
+MidcontinentMedia,Streaming Media,,,
+Minecraft,Gaming,X,,Gaming (Minecraft)
+Missouri_Net,Streaming Media,,,
+MS_FS,Business,,,
+MS_OLAP,Business,,,
+MS_RPC,Business,,,
+MS_SMB,Business,,,
+MS_SSDP,Business,,,
+MSCluster,Business,,,
+MSExchange,Business,,,
+MSGC,Business,,,
+MSMsgQ,Business,,,
+MSN_Msngr,Messaging and Collaboration,X,,Messaging (MSN)
+MSNetmeeting,Messaging and Collaboration,,,
+MSOpsMgr,Business,,,
+MSSharePoint,Business,,,
+MSSQL,Business,,,
+MSTerminal,Business,,,
+MySpace,Social,,,
+mySQL,Business,,,
+nameserver,Network Infrastructure & IP Protocols,,,
+NAT_T,VPN,,,
+Neo_Telecoms,"Web, Cloud, Storage Hosting",,,
+NetAssist,Apple,,,
+netbios,Business,,,
+netDNA,Streaming Media,,,
+Netflix_Airstream,Streaming Media,X,,Netflix (Airstream)
+Netflix_Bluegrass_Caching,Entertainment,,,
+Netflix_Bluegrass_Caching,Streaming Media,,,
+Netflix_DCN,Streaming Media,X,,Netflix (DCN)
+Netflix_Direct,Streaming Media,X,,Netflix (Direct)
+Netflix_IFN,Streaming Media,X,,Netflix (IFN)
+Netflix_INS,Streaming Media,X,,Netflix (INS)
+Netflix_MO_Net,Streaming Media,X,,Netflix (MO Net)
+Netflix_Oshean,Streaming Media,,,
+Netflix_PBTL,Streaming Media,X,,Netflix (PBTL)
+Netflix_SDN_Comm,Streaming Media,,,
+Netflix_Spirit,Streaming Media,X,,Netflix (Spirit)
+Netflix_Syringa,Streaming Media,X,,Netflix (Syringa)
+Netflix_VisionNet,Streaming Media,X,,Netflix (VisionNet)
+New_Dream_Net,Streaming Media,,,
+news,Messaging and Collaboration,,,
+neXband_Comm,"Web, Cloud, Storage Hosting",,,
+Nexicom,"Web, Cloud, Storage Hosting",,,
+NFS,Network Infrastructure & IP Protocols,,,
+Nintendo_Wii,Gaming,X,,Nintendo Wii
+Nirvanix,"Web, Cloud, Storage Hosting",,,
+nLayer_Comm,Streaming Media,,,
+NOAnet,"Web, Cloud, Storage Hosting",,,
+Northern_Computers,Business,,,
+Novell,Network Infrastructure & IP Protocols,,,
+NTP,Network Infrastructure & IP Protocols,,,
+NTT_America,Streaming Media,,,
+Numericable,"Web, Cloud, Storage Hosting",,,
+Online_Gaming_Miscellaneous,Gaming,,,
+OpenVPN ,VPN,,,
+OSPF,Network Infrastructure & IP Protocols,,,
+OVH_Systems,"Web, Cloud, Storage Hosting",,,
+Pandora,Streaming Media,X,X,Pandora
+Paul_Bunyan_TL,Streaming Media,,,
+pcAnywhere,Business,,,
+PCoIP,Business,,,
+PFNL_Caching,Streaming Media,,,
+Pinpoint_Comm,"Web, Cloud, Storage Hosting",,,
+PL_TELIANET,Streaming Media,,,
+Playstation,Gaming,X,,Gaming (Playstation)
+POP,Messaging and Collaboration,,,
+portZERO,Network Infrastructure & IP Protocols,,,
+PostgreSQL,Business,,,
+PPS_Fibernet,"Web, Cloud, Storage Hosting",,,
+Printer,Business,,,
+Quake_based_games,Gaming,X,,Gaming (Quake Based Games)
+QuickTime,Apple,,,
+RADIUS,Network Infrastructure & IP Protocols,,,
+Rapidgator,"Web, Cloud, Storage Hosting",,,
+RIPE_Europe,"Web, Cloud, Storage Hosting",,,
+RMI,Business,,,
+Road_Runner_HoldCo,Streaming Media,,,
+Rogers_Cable_Comm,Streaming Media,,,
+RPC,Business,,,
+RSVP,Network Infrastructure & IP Protocols,,,
+RTP,Streaming Media,,,
+RTSP,Streaming Media,,,
+Saint_Joseph_Cable,"Web, Cloud, Storage Hosting",,,
+Salesforce,Business,,,
+SDN_Communications,"Web, Cloud, Storage Hosting",,,
+Serverrel,"Web, Cloud, Storage Hosting",,,
+ServiceProviderCorp,"Web, Cloud, Storage Hosting",,,
+Shaw_Communications,Streaming Media,,,
+shell,Network Infrastructure & IP Protocols,,,
+SIP,Messaging and Collaboration,,,
+Skype,Messaging and Collaboration,X,,Messaging (Skype)
+SMS,Messaging and Collaboration,,,
+SMTP,Messaging and Collaboration,,,
+SNMP,Network Infrastructure & IP Protocols,,,
+SOCKS,VPN,,,
+Softlayer,"Web, Cloud, Storage Hosting",,,
+Spirit_Telecom,Streaming Media,,,
+Spotify,Streaming Media,,X,
+SSH,VPN,,,
+Steam_Games,Gaming,X,,Gaming (Playstation)
+Suddenlink,Streaming Media,,,
+SybaseSQL,Business,,,
+Symantec,Business,,,
+Syringa_Networks,Streaming Media,,,
+syslog,Network Infrastructure & IP Protocols,,,
+TACACS,Network Infrastructure & IP Protocols,,,
+Tanker_Int,Business,,,
+TELEPAC_PT_Com,Streaming Media,,,
+Telnet,Business,,,
+TexasLoneStarNet,Streaming Media,,,
+Time,Network Infrastructure & IP Protocols,,,
+Tunneling,VPN,,,
+TW_Telecom,Streaming Media,,,
+Twitch_TV,Gaming,X,,Gaming (Playstation)
+Twitter,Social,X,X,Twitter
+Unmapped Ports,Network Infrastructure & IP Protocols,,,
+UpstreamTV,Streaming Media,,,
+US_Signal,Business,,,
+USCarrier_Tel,"Web, Cloud, Storage Hosting",,,
+Valve_Net_EU,Gaming,X,,Gaming (Valve Net EU)
+ValveNet,Gaming,X,,Gaming (Valve Net)
+Vision_Net,"Web, Cloud, Storage Hosting",,,
+Vkontakte_Ltd,Social,,,
+VMware_App,Business,,,
+VMware_vMotion,Business,,,
+VNC,Business,,,
+Voxility,"Web, Cloud, Storage Hosting",,,
+Vudu_Streaming,Streaming Media,X,,OTT Content (Vudu)
+WaveBroadband,"Web, Cloud, Storage Hosting",,,
+WBEM,Business,,,
+WCWireless,"Web, Cloud, Storage Hosting",,,
+WebEx,Business,,,
+WebObjects,Business,,,
+WebSecSvc,"Web, Cloud, Storage Hosting",,,
+WebSvc,"Web, Cloud, Storage Hosting",,,
+Whois,Business,,,
+Wikipedia_Web,"Web, Cloud, Storage Hosting",,,
+WindowsMedia,Streaming Media,,,
+Windstream,Streaming Media,,,
+WinMX,File Sharing/Transfer,,,
+WMS_Messenger,Messaging and Collaboration,,,
+WZ_Comm,"Web, Cloud, Storage Hosting",,,
+Xbox_Live,Gaming,X,,Gaming (Xbox Live)
+Xgrid,Business,,,
+XO_Comm,Business,,,
+XSR_App,Business,,,
+Xwindows,Business,,,
+Yahoo,Messaging and Collaboration,X,,Messaging (Yahoo)
+YahooIM,Messaging and Collaboration,,,
+Zynga,Gaming,X,,Zynga
+WhatsApp,,X,X,
+Instagram,,X,X,
