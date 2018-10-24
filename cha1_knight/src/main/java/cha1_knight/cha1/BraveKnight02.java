@@ -1,4 +1,4 @@
-package springinaction.cha1;
+package cha1_knight.cha1;
 
 public class BraveKnight02 implements Knight{
 
