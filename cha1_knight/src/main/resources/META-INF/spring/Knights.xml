@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" 
+  xmlns:xsi="htpp://www.w3.org/2001/XMLSchema-instance" 
+  xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/bean/spring-beans.xsd">
+
+  <bean id="knight" class="springinaction.cha1.BraveKnight02">
+  	<constructor-arg value="quest"/>
+  </bean>
+  
+  <bean id="quest" class="springinaction.cha1.SlayDragonQuest">
+  	<constructor-arg value="#{T(System).out}" />
+  </bean>
+  
+ </beans>
