@@ -13,7 +13,7 @@ public class H1_quicksort {
         System.out.println(Arrays.toString(array));
     }
 
-    private static int[] quicksort(int[] array, int start, int end) {
+    public static int[] quicksort(int[] array, int start, int end) {
         int pivot = array[(start + end)/2];
         int from = start;
         int to = end;

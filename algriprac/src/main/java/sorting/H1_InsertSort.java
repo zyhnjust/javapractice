@@ -17,7 +17,7 @@ public class H1_InsertSort {
     }
 
     // self write first time
-    private static int[] insertSort(int[] array) {
+    public static int[] insertSort(int[] array) {
         int n = array.length;
         for(int i=1; i< n; i++){
             int j =0;
