@@ -1,4 +1,8 @@
-./hraft/target
-./hraft/.idea
-./algriprac/target
-./algriprac/.idea
+hraft/target
+hraft/.idea
+algriprac/target
+algriprac/.idea/
+*.idea
+*target
+hflink/h_wiki-edits
+hflink/wiki-edits/target

@@ -2,30 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baf49797-f1dd-499c-8161-e014c28b68b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/cha1_knight/cha1/BraveKnight01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/cha1_knight/cha1/BraveKnight02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/cha1_knight/cha1/Knight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/cha1_knight/cha1/KnightConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/cha1_knight/cha1/Quest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/cha1_knight/cha1/RescureDamselQuest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/java/cha1_knight/cha1/SlayDragonQuest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/resources/META-INF/spring/Knights.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/resources/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/main/resources/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha1_knight/src/test/java/LibraryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vertx_report/target/classes/META-INF/maven/com.personal.micro.vertx/personal_micor_vertx/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../vertx_report/target/classes/META-INF/maven/com.personal.micro.vertx/personal_micor_vertx/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algri/binarytree/round2/PreOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_349_intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/H_349_intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_454_sum4_hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/H_454_sum4_hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_DNA187.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/H_DNA187.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_DNA187_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/H_DNA187_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/H_ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_ThreeSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/H_ThreeSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_binarySearch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/H_binarySearch01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarytree/H1_leet_230_kSmallInBst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/binarytree/H1_leet_230_kSmallInBst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarytree/H1_preOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/binarytree/H1_preOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarytree/RBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/binarytree/RBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarytree/RBTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/binarytree/RBTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarytree/round2/PreOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jksj/linkedlist/H1_stackViaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/linkedlist/H1_stackViaArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jksj/linkedlist/H1_stackViaLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/linkedlist/H1_stackViaLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jksj/linkedlist/LRUBaseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/linkedlist/LRUBaseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jksj/linkedlist/SingleLinkedListAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/linkedlist/SingleLinkedListAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/H_searchTwoDimen_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/offer/H_searchTwoDimen_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/H1_InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/H1_InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/H1_mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/H1_mergesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/H1_popsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/H1_popsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/H1_quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/H1_quicksort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/H_quicksort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/H_quicksort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/QuickSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/QuickSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/prac/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/prac/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort_anotherTwoSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort_anotherTwoSide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/prac/Quicksort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/sorting/prac/Quicksort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/FindString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/FindString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_CheckPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_CheckPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_LongSubParlindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_LongSubParlindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_Regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_Regex_Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_Regex_Copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_longestsubnoduplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_longestsubnoduplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_replaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_replaceSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/H_reverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/H_reverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/KMP_String_Matching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/KMP_String_Matching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/KmpStringMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/KmpStringMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/LongSubPali_dyanmic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/LongSubPali_dyanmic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/LongSubPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/LongSubPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/LongestCommonPre_H_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/LongestCommonPre_H_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/LongestCommonPre_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algri/string/LongestCommonPre_one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hflink/wiki-edits/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hflink/wiki-edits/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hflink/wiki-edits/src/main/java/kafka/ReadFromKafka.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hflink/wiki-edits/src/main/java/kafka/ReadFromKafka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hflink/wiki-edits/src/main/java/kafka/WriteToKafka.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hflink/wiki-edits/src/main/java/kafka/WriteToKafka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hflink/wiki-edits/src/main/java/wikiedits/WikipediaAnalysisKafka.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hflink/wiki-edits/src/main/java/wikiedits/WikipediaAnalysisKafka.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,45 +66,106 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algriprac" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/H1_preOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="3240">
+              <caret line="123" selection-start-line="123" selection-end-line="157" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jksj/linkedlist/LRUBaseLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/H1_leet_230_kSmallInBst.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="243">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/H1_stackViaArray.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/LRUBaseLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/SingleLinkedListAlgo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/H1_stackViaLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_H1_0730.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_H2_0730.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#1475#1476#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#1533#1534#0" expanded="true" />
+                <element signature="e#1554#1555#0" expanded="true" />
+                <element signature="e#1997#1998#0" expanded="true" />
+                <element signature="e#2029#2030#0" expanded="true" />
+                <element signature="e#2072#2073#0" expanded="true" />
+                <element signature="e#2111#2112#0" expanded="true" />
+                <element signature="e#821#829#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/ComBineSortedArray_H1_0730.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="243">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_copy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -97,6 +189,38 @@
         <option value="$PROJECT_DIR$/src/main/java/jksj/linkedlist/LRUList.java" />
         <option value="$PROJECT_DIR$/src/main/java/jksj/linkedlist/LRUBaseLinkedList.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/string/H_longestsubnoduplicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/H1_quicksort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/H1_InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_ThreeSum2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_DNA187.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_DNA187_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_349_intersection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_454_sum4_hash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_binarySearch01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/H_searchTwoDimen_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binarytree/round2/PreOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binarytree/round2/PreOrder2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binarytree/H1_leet_230_kSmallInBst.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H1_179_maxNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort_0722_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort_0722.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/prac/QuickSort_0722_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Heap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_slidingWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_SlidingWindow02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_SlidingWindow03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algri/H_SlidingWindow02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/jksj/array/dynamicArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/dynamicArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/H1_dynamicArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_H1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_H1_0730.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_copy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_H2_0730.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/ComBineSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jksj/array/ComBineSortedArray_H1_0730.java" />
       </list>
     </option>
   </component>
@@ -108,10 +232,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="1275" />
+    <option name="y" value="-5" />
+    <option name="width" value="1291" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -121,7 +245,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,18 +263,46 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algriprac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algriprac" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algriprac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algriprac" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algriprac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558917359498" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564455647759" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/jksj" />
     <property name="last_opened_file_path" value="C:/code_thirdparty/spark_inte" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\developer\code_mine\javapractice\algriprac\src\main\java\algri" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,13 +316,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="LRUBaseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jksj.linkedlist.LRUBaseLinkedList" />
+  <component name="RunManager" selected="Application.ComBineSortedArray_H1_0730">
+    <configuration name="ComBineSortedArray_H1_0730" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jksj.array.ComBineSortedArray_H1_0730" />
       <module name="algriprac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jksj.linkedlist.*" />
+          <option name="PATTERN" value="jksj.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,9 +330,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DynamicArray_copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jksj.array.DynamicArray_copy" />
+      <module name="algriprac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jksj.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H_SlidingWindow02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_SlidingWindow02" />
+      <module name="algriprac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H_SlidingWindow03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_SlidingWindow03" />
+      <module name="algriprac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H_slidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_slidingWindow" />
+      <module name="algriprac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LRUBaseLinkedList" />
+        <item itemvalue="Application.ComBineSortedArray_H1_0730" />
+        <item itemvalue="Application.DynamicArray_copy" />
+        <item itemvalue="Application.H_SlidingWindow03" />
+        <item itemvalue="Application.H_SlidingWindow02" />
+        <item itemvalue="Application.H_slidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -206,71 +395,499 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19978517" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32976446" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49438202" visible="true" weight="0.20682302" />
+      <window_info id="Structure" order="1" sideWeight="0.505618" side_tool="true" weight="0.20682302" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5016779" side_tool="true" weight="0.22234157" />
+      <window_info id="DB Browser" order="7" />
+      <window_info id="Project Explorer" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32976446" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25638297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47951272" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Statistic" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32668883" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" />
+      <window_info anchor="bottom" id="Console" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/string/H_longestsubnoduplicate.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/string/H_longestsubnoduplicate.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/H_ThreeSum2.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/H_DNA187.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/H_DNA187.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/H_454_sum4_hash.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/H_binarySearch01.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algri/binarytree/H1_leet_230_kSmallInBst.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="str.charAt(i)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sb.toString().indexOf(str.charAt(i))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sb.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jksj/linkedlist/LRUBaseLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="243">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/string/H_longestsubnoduplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2511">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/string/H_KMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_ThreeSum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2727">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
           <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="621">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_DNA187.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_DNA187_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_349_intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_454_sum4_hash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_binarySearch01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/offer/H_searchTwoDimen_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/sorting/H1_quicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/sorting/H1_InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="475" column="17" selection-start-line="475" selection-start-column="17" selection-end-line="475" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort_0722.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="50" selection-start-line="50" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H1_179_maxNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort_0722_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort_0722_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15390">
+          <caret line="612" column="14" selection-start-line="612" selection-start-column="14" selection-end-line="612" selection-end-column="14" />
+          <folding>
+            <element signature="e#12158#12159#0" expanded="true" />
+            <element signature="e#12189#12190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" selection-start-line="55" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_slidingWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14013">
+          <caret line="558" column="36" selection-start-line="558" selection-start-column="36" selection-end-line="558" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4185">
+          <caret line="188" column="21" selection-start-line="188" selection-start-column="21" selection-end-line="188" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/sorting/prac/QuickSort_anotherTwoSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29565">
+          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/string/FindString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_SlidingWindow03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/H_SlidingWindow02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/round2/PreOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/round2/PreOrder2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/RBTree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/RBTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/H1_preOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="123" selection-start-line="123" selection-end-line="157" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/binarytree/H1_leet_230_kSmallInBst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/H1_stackViaArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/LRUBaseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/SingleLinkedListAlgo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algri/linkedlist/H1_stackViaLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jksj/jksj/array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_copy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_H1_0730.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/DynamicArray_H2_0730.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1533#1534#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+            <element signature="e#1997#1998#0" expanded="true" />
+            <element signature="e#2029#2030#0" expanded="true" />
+            <element signature="e#2072#2073#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#821#829#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jksj/array/ComBineSortedArray_H1_0730.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>

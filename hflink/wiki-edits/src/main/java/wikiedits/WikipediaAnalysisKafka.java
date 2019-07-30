@@ -51,6 +51,8 @@ public class WikipediaAnalysisKafka {
 		Properties properties = new Properties();
 		properties.setProperty("bootstrap.servers", "10.245.247.155:9092");
 
+		result.print();
+
 		result.map(new MapFunction<Tuple2<String,Long>, String>() {
 				@Override
 				public String map(Tuple2<String, Long> tuple) {
