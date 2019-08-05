@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>rpc_learn</artifactId>
+        <groupId>com.htest.study.rpc.dubbo</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.htest.study.rpc.dubbo,sgg.demo1</groupId>
+    <artifactId>sgg-demo1</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>demo1_consumer</module>
+        <module>demo1_provider</module>
+        <module>gmall_interface</module>
+    </modules>
+
+
+</project>
